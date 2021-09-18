@@ -1,0 +1,1 @@
+Andrich Fernando Barreto Hernandez tecnólogo en gestión empresarial egresado del SENA, trabajador de medio tiempo en trabajos varios, sin experiencia previa en programación pero con muchas ganas de aprender.
