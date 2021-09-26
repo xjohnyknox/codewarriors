@@ -1,0 +1,26 @@
+/* .home-screen{
+    background: #DAE2F8;
+    background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);
+    background: linear-gradient(to right, #D6A4A4, #DAE2F8);
+} */
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.title1{
+    
+    /* position: absolute;
+    top: 50%;
+    left: 50%; */
+    position: absolute;
+    color: #ffffff !important;
+    /* transform: translate(-50%,-50%); */
+    /* text-align: center; */
+}
+
+
