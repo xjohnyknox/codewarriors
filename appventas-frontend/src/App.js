@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Redirect, Route, Switch } from 'react-router-dom';
 import { createBrowserHistory } from "history";
-import logo from './logo.svg';
+/*import logo from './logo.svg';*/
 import './App.css';
 
 import Login from './views/Login/Login';
