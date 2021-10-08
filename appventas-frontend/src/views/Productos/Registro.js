@@ -1,8 +1,8 @@
 import React, { useEffect, useState, Fragment } from 'react';
 import NavbarApp from '../Navbar/Navbar';
-import Container from 'react-bootstrap/Container'
 
 //Importar los componentes de bootstrap
+import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Form from 'react-bootstrap/Form'
